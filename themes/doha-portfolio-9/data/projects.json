@@ -1,0 +1,1700 @@
+[
+ {
+  "name": "Special Chef Bakery",
+  "url": "https://specialchefbakery.com",
+  "country": "UAE",
+  "category": "Hospitality, Food & Events",
+  "employer": "EchoVision",
+  "featured": true
+ },
+ {
+  "name": "Special Chef Bakery Digital Menu",
+  "url": "https://menu.specialchefbakery.com",
+  "country": "UAE",
+  "category": "Hospitality, Food & Events",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Quantum Holding Company",
+  "url": "https://quantumholding.net",
+  "country": "UAE",
+  "category": "Corporate & Business",
+  "employer": "EchoVision",
+  "featured": true
+ },
+ {
+  "name": "EchoVision Digital Marketing",
+  "url": "https://echovision.ae",
+  "country": "UAE",
+  "category": "Tech & Startups",
+  "employer": "EchoVision",
+  "featured": false,
+  "case": {
+   "summary": "EchoVision is a Dubai digital marketing agency. I rebuilt the homepage and built the custom plugins behind its reviews and Instagram content.",
+   "builder": "Elementor Pro",
+   "plugins": [
+    "EchoVision Social Core (custom plugin: Google Reviews and Instagram)",
+    "Rank Math SEO",
+    "WP-Optimize"
+   ],
+   "tech": [
+    "WordPress",
+    "PHP",
+    "Google Places API",
+    "Instagram Graph API",
+    "JavaScript",
+    "CSS3"
+   ],
+   "features": [
+    "Homepage rebuilt as an Elementor template on flexbox containers",
+    "Google Reviews and Instagram feeds with server-side caching and automatic token refresh",
+    "Light and dark mode toggle that remembers the visitor’s choice without a flash",
+    "One consolidated stylesheet and a global colour kit with 13 named colours"
+   ],
+   "uiux": [
+    "Scroll-reveal animations",
+    "Correct heading hierarchy with a single H1",
+    "Light and dark themes"
+   ],
+   "phases": [
+    "Audit: fragmented CSS, heading structure and performance",
+    "Rebuild: homepage as an Elementor JSON template",
+    "Integrations: custom Social Core plugin for reviews and Instagram",
+    "Performance: caching and server response investigation"
+   ]
+  }
+ },
+ {
+  "name": "EchoVision AI Chatbot",
+  "url": "https://ai.echovision.ae",
+  "country": "UAE",
+  "category": "Tech & Startups",
+  "employer": "EchoVision",
+  "featured": false
+ },
+ {
+  "name": "Habibilino",
+  "url": "https://habibilino.com",
+  "country": "Germany",
+  "category": "E-commerce",
+  "employer": "Freelance",
+  "featured": true
+ },
+ {
+  "name": "Rolls Power Oil Trading",
+  "url": "https://rollspower.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "TEXAS ELECTRICAL Appliances",
+  "url": "http://texas-electrical.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Timgad General Trading",
+  "url": "https://timgad-trading.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Eshbelia Trading",
+  "url": "https://eshbelia-trading.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Dark Moon Engines & Machinery Spare Parts &Heavy Equipment Trading LLC",
+  "url": "https://darkmoon-trading.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Wolf Guard Detergents Trading LLC",
+  "url": "https://wolf-guard.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "KAS",
+  "url": "https://kasme.com",
+  "country": "Kuwait",
+  "category": "Corporate & Business",
+  "employer": "Freelance",
+  "featured": true
+ },
+ {
+  "name": "Granada Mall",
+  "url": "https://granadamall.com",
+  "country": "Saudi Arabia",
+  "category": "E-commerce",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Aspects",
+  "url": "https://aspects.be",
+  "country": "Belgium",
+  "category": "Corporate & Business",
+  "employer": "Freelance",
+  "featured": true
+ },
+ {
+  "name": "Al-Emad Charity",
+  "url": "https://alemadcharity.org",
+  "country": "Syria",
+  "category": "Non-profit, Media & Health",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "The Bin Lift",
+  "url": "https://thebinlift.com",
+  "country": "Qatar",
+  "category": "E-commerce",
+  "employer": "Freelance",
+  "featured": true,
+  "case": {
+   "summary": "The Bin Lift is a Qatar supplier of waste bins and waste-handling equipment, with a WooCommerce product catalogue.",
+   "plugins": [
+    "WooCommerce"
+   ],
+   "tech": [
+    "WordPress",
+    "PHP",
+    "MySQL",
+    "WooCommerce"
+   ],
+   "features": [
+    "Product catalogue for bins and waste equipment",
+    "Site recovered and cleaned after a hack: database and plugins",
+    "Premium plugins replaced with free alternatives to keep running costs down"
+   ],
+   "phases": [
+    "Build: WooCommerce catalogue",
+    "Recovery: malware cleanup of the database and plugins",
+    "Hardening: security settings and free plugin alternatives"
+   ]
+  }
+ },
+ {
+  "name": "Eliev",
+  "url": "http://eliev.de",
+  "country": "Germany",
+  "category": "E-commerce",
+  "employer": "Freelance",
+  "featured": true
+ },
+ {
+  "name": "AIaaS",
+  "url": "https://ai-aas.ai",
+  "country": "UAE",
+  "category": "Tech & Startups",
+  "employer": "Freelance",
+  "featured": false,
+  "case": {
+   "summary": "AIaaS (Accessible DeepTech) offers AI-as-a-service to businesses: embedded enterprise AI, agentic AI and AI for business growth. The site presents the services, the company's approach to ethical AI, case studies and a clear path to contact.",
+   "features": [
+    "Hero with the core promise: smart, adaptive AI agents for business growth",
+    "Three service cards: Embedded Enterprise AI, Agentic AI, Business Growth & Sustainability",
+    "About section on foresight and actionable intelligence with a checklist of capabilities and a video",
+    "Mission section on AI precision and ethical excellence with key figures (projects and clients)",
+    "Recent case studies carousel",
+    "Testimonials, FAQ accordion and a closing call to action",
+    "Floating chat button and social links"
+   ],
+   "uiux": [
+    "Deep blue and white palette with futuristic AI imagery to match the subject",
+    "Alternating light and dark sections that keep long scrolling easy to follow",
+    "Card layout for services with short descriptions and \"Learn more\" links",
+    "Numbers and checklists to make claims scannable",
+    "Contact reachable from the header button, the closing banner and the chat button"
+   ],
+   "phases": [
+    "Discovery: services, audience and key messages for an AI services company",
+    "Design: AI-themed visual direction, imagery and section plan",
+    "Build: homepage sections, services, case studies, testimonials and FAQ",
+    "QA: responsive checks, speed and contact routes",
+    "Launch: go-live and handover"
+   ]
+  }
+ },
+ {
+  "name": "IST",
+  "url": "https://ist.ehabnassar.com",
+  "country": "Kuwait",
+  "category": "Tech & Startups",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Afaq Virtual College",
+  "url": "https://afaq-college.com",
+  "country": "Syria",
+  "category": "Education & LMS",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Arab School in Otsuka",
+  "url": "http://iiso-edu.jp",
+  "country": "Japan",
+  "category": "Education & LMS",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Qatar MCC",
+  "url": "https://qatarmcc.com",
+  "country": "Qatar",
+  "category": "Corporate & Business",
+  "employer": "Freelance",
+  "featured": true
+ },
+ {
+  "name": "Web Branders",
+  "url": "http://webbranders.co.uk",
+  "country": "UK",
+  "category": "Tech & Startups",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Insightter",
+  "url": "https://insightter.org",
+  "country": "Lebanon",
+  "category": "Tech & Startups",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Cambridge Muslim Academy",
+  "url": "http://cambridgemuslimacademy.com",
+  "country": "UK",
+  "category": "Education & LMS",
+  "employer": "Freelance",
+  "featured": true
+ },
+ {
+  "name": "Cayeny",
+  "url": "http://cayeny.com",
+  "country": "Syria",
+  "category": "E-commerce",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Maison Arabelle",
+  "url": "https://maisonarabelle.com",
+  "country": "UAE",
+  "category": "E-commerce",
+  "employer": "ProITs",
+  "featured": true
+ },
+ {
+  "name": "Markettcom",
+  "url": "http://markettcom.com",
+  "country": "UAE",
+  "category": "Tech & Startups",
+  "employer": "Markettcom",
+  "featured": false
+ },
+ {
+  "name": "Konféty",
+  "url": "https://konfety.ca",
+  "country": "Canada",
+  "category": "E-commerce",
+  "employer": "Freelance",
+  "featured": true
+ },
+ {
+  "name": "Tornado Brass",
+  "url": "http://tornadobrass.com.tr",
+  "country": "Turkey",
+  "category": "E-commerce",
+  "employer": "Freelance",
+  "featured": true
+ },
+ {
+  "name": "Al-Madenah",
+  "url": "https://al-madenah.com",
+  "country": "Saudi Arabia",
+  "category": "Hospitality, Food & Events",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "North Rose Foodstuff",
+  "url": "https://northrosefood.com",
+  "country": "UAE",
+  "category": "Hospitality, Food & Events",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "RC7Pros",
+  "url": "https://rc7pro.com",
+  "country": "UAE",
+  "category": "Tech & Startups",
+  "employer": "Sketchat Studio",
+  "featured": false
+ },
+ {
+  "name": "Afaq Institute",
+  "url": "http://afaq-center.net",
+  "country": "Syria",
+  "category": "Education & LMS",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Al Bayt Al Dimashqi Restaurant",
+  "url": "http://www.albayt-aldimashqi.com",
+  "country": "Turkey",
+  "category": "Hospitality, Food & Events",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Syrian Youth Assembly",
+  "url": "https://www.syrian-youth.org",
+  "country": "Germany",
+  "category": "Non-profit, Media & Health",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Independent Robotics",
+  "url": "http://www.independentrobotics.com",
+  "country": "Canada",
+  "category": "Tech & Startups",
+  "employer": "Freelance",
+  "featured": true
+ },
+ {
+  "name": "Afronix Aviation",
+  "url": "https://travelserviceblog.wordpress.com",
+  "country": "Africa",
+  "category": "Corporate & Business",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "AD Advertising",
+  "url": "http://www.yamanorfahly.com",
+  "country": "Saudi Arabia",
+  "category": "Corporate & Business",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Shukair Company",
+  "url": "https://shukair.net",
+  "country": "Qatar",
+  "category": "Corporate & Business",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Hasna Emara",
+  "url": "https://hasnaemara.com",
+  "country": "Saudi Arabia",
+  "category": "Personal & Creative",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Arab Virtual School Blog",
+  "url": "https://blog.arabicschools.jp",
+  "country": "Japan",
+  "category": "Education & LMS",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Arab Virtual School",
+  "url": "https://arabicschools.jp",
+  "country": "Japan",
+  "category": "Education & LMS",
+  "employer": "Freelance",
+  "featured": true
+ },
+ {
+  "name": "Alyaqoot Alzahaby Al Aalmi Auto Spare Parts Trading",
+  "url": "https://alyaqoot-alzahaby.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Florida Star Electrical Fittings & Light Supplies Trading",
+  "url": "https://florida-star.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Ohio Aluminum & Building Materials Trading",
+  "url": "https://ohio-trading.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Lyon Manufacturing Of Garments Factory",
+  "url": "https://lyon-factory.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Wahat Delta Cosmetics Trading & Para Pharmaceutical Products Trading",
+  "url": "https://wahat-delta.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Asawir Trading",
+  "url": "https://asawir-trading.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Dusseldorf Motor Vehicles Spare Parts Manufacturing",
+  "url": "http://dusseldorf-motors.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Florence Perfumes & Cosmetics Manufacturing",
+  "url": "http://florence-manufacturing.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Emirates Minting Factory",
+  "url": "https://emiratesminting.ae",
+  "country": "UAE",
+  "category": "Corporate & Business",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Magnifica Event",
+  "url": "https://magnificaevent.com",
+  "country": "UAE",
+  "category": "Hospitality, Food & Events",
+  "employer": "EchoVision",
+  "featured": true,
+  "case": {
+   "summary": "Magnifica Event is a Dubai corporate events company. The site was migrated from a Next.js build to WordPress and Elementor Pro with pixel-perfect parity, so the team can now edit every page themselves.",
+   "builder": "Elementor Pro",
+   "plugins": [
+    "magnifica-site-core (custom plugin: custom post types, hero video rotation, scroll reveal, carousels, preloader)",
+    "Custom Elementor widget: Instagram carousel without API access"
+   ],
+   "tech": [
+    "WordPress",
+    "PHP",
+    "Elementor Pro",
+    "JavaScript",
+    "CSS3",
+    "Google Workspace email"
+   ],
+   "features": [
+    "Homepage, About, Services, Portfolio and Contact rebuilt as Elementor Pro templates",
+    "Rotating hero video and scroll-reveal animations",
+    "Portfolio and services as custom post types",
+    "Instagram feed carousel that works from the public profile URL",
+    "English-only by client choice"
+   ],
+   "uiux": [
+    "Pixel-perfect match with the original Next.js design",
+    "Same motion language as the source site: preloader, reveals and carousels",
+    "Every section editable in Elementor without touching code"
+   ],
+   "phases": [
+    "Audit: mapped every page and interaction of the Next.js site",
+    "Build: Elementor Pro templates plus a single site-core plugin for custom logic",
+    "Parity QA: side-by-side checks against the original on desktop and mobile",
+    "Staging: reviewed on a staging subdomain",
+    "Launch: DNS moved to the WordPress hosting, site live on magnificaevent.com"
+   ]
+  }
+ },
+ {
+  "name": "EchoVision Content Calendar",
+  "url": "https://specialchefbakery.echovision.ae",
+  "country": "UAE",
+  "category": "Tech & Startups",
+  "employer": "EchoVision",
+  "featured": false,
+  "case": {
+   "summary": "A multi-client content-calendar platform: one WordPress site where every client gets its own page branded to their visual identity, starting with Special Chef Bakery.",
+   "plugins": [
+    "Content calendar (custom plugin)"
+   ],
+   "tech": [
+    "WordPress",
+    "PHP",
+    "JavaScript",
+    "CSS3"
+   ],
+   "features": [
+    "Content calendar per client at its own address",
+    "Each client page styled with that client’s brand",
+    "Grew from a single-client plugin into a multi-client platform"
+   ],
+   "uiux": [
+    "Calendar view the client team can review at a glance",
+    "Brand colours and fonts per client"
+   ],
+   "phases": [
+    "Build: content-calendar plugin for the first client",
+    "Generalise: multi-client structure with per-client pages",
+    "Roll-out: first branded client page for Special Chef Bakery"
+   ]
+  }
+ },
+ {
+  "name": "Miss To Mrs Events",
+  "url": "https://mtmevents.ae",
+  "country": "UAE",
+  "category": "Hospitality, Food & Events",
+  "employer": "EchoVision",
+  "featured": true,
+  "case": {
+   "summary": "Miss To Mrs Events is a multi-vendor marketplace for wedding and event services in the Gulf. Couples browse vendors, compare services and book dates; vendors manage their own stores, availability and payouts.",
+   "theme": "WoodMart",
+   "builder": "Elementor",
+   "plugins": [
+    "WooCommerce",
+    "Custom brand-fonts plugin (self-hosted Laterlocks and Rhapsody Script)",
+    "Custom brand-kit applier plugin"
+   ],
+   "tech": [
+    "WordPress",
+    "PHP",
+    "MySQL",
+    "WooCommerce",
+    "JavaScript",
+    "Figma"
+   ],
+   "features": [
+    "Multi-vendor marketplace with a vendor directory and filters",
+    "Per-vendor dashboards, availability calendars, commissions and payouts",
+    "Custom cart-to-calendar booking flow for event dates",
+    "Arabic and English with RTL, multi-currency (AED by default) and multiple payment methods including instalments",
+    "Brand kit applied site-wide: Elementor default kit, colours and self-hosted brand fonts"
+   ],
+   "uiux": [
+    "Brand identity carried through WoodMart with a custom Elementor kit",
+    "Separate mobile and desktop designs in Figma for the custom UI phase",
+    "Booking flow designed around dates first, then vendors",
+    "English and AED as defaults for Gulf visitors"
+   ],
+   "phases": [
+    "V1 Launch: single vendor, one language, one currency and one payment method on the theme design with the brand applied",
+    "V2 Marketplace: multi-vendor, cart-to-calendar booking, vendor dashboards, commissions and payouts",
+    "V3 Regional: Arabic with RTL, multi-currency and instalment payments",
+    "V4 Custom UI: Figma design for mobile and desktop, then implementation",
+    "Cadence: each phase is 20 days of build plus 10 days of revisions, testing and verification"
+   ]
+  }
+ },
+ {
+  "name": "EGT Shipping & Logistics",
+  "url": "https://egt.group",
+  "country": "UAE",
+  "category": "Corporate & Business",
+  "employer": "EchoVision",
+  "featured": true,
+  "case": {
+   "features": [
+    "Ongoing maintenance and development under an annual contract",
+    "Improvements made around the existing plugin stack, without removals"
+   ]
+  }
+ },
+ {
+  "name": "Matevea",
+  "url": "https://matevea.com",
+  "country": "UAE",
+  "category": "E-commerce",
+  "employer": "EchoVision",
+  "featured": false
+ },
+ {
+  "name": "Alkhoori Real Estate",
+  "url": "https://alkhoorirealestate.com",
+  "country": "UAE",
+  "category": "Real Estate & Construction",
+  "employer": "EchoVision",
+  "featured": false
+ },
+ {
+  "name": "Nas-First Consultancy",
+  "url": "https://nasfirst.com",
+  "country": "UAE",
+  "category": "Corporate & Business",
+  "employer": "EchoVision",
+  "featured": false
+ },
+ {
+  "name": "Angham Naas: Artist Portfolio",
+  "url": "https://artist.nasfirst.com",
+  "country": "UAE",
+  "category": "Personal & Creative",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Rose Bouquet",
+  "url": "https://rose-bouquet.com",
+  "country": "UAE",
+  "category": "E-commerce",
+  "employer": "EchoVision",
+  "featured": false
+ },
+ {
+  "name": "Said Omari",
+  "url": "https://saidomari.com",
+  "country": "UAE",
+  "category": "Personal & Creative",
+  "employer": "EchoVision",
+  "featured": false
+ },
+ {
+  "name": "Direct Line Real Estate",
+  "url": "https://directlinerealestate.com",
+  "country": "UAE",
+  "category": "Real Estate & Construction",
+  "employer": "EchoVision",
+  "featured": false
+ },
+ {
+  "name": "SAWA Real Estate",
+  "url": "https://sawarealestate.ae",
+  "country": "UAE",
+  "category": "Real Estate & Construction",
+  "employer": "EchoVision",
+  "featured": true
+ },
+ {
+  "name": "Blue Rock Ship",
+  "url": "https://bluerockship.ae",
+  "country": "UAE",
+  "category": "Corporate & Business",
+  "employer": "EchoVision",
+  "featured": false
+ },
+ {
+  "name": "Hummingbird Real Estate Broker",
+  "url": "https://hummingbird-broker.com",
+  "country": "UAE",
+  "category": "Real Estate & Construction",
+  "employer": "EchoVision",
+  "featured": false
+ },
+ {
+  "name": "Roz",
+  "url": "https://roz.ae",
+  "country": "UAE",
+  "category": "Personal & Creative",
+  "employer": "EchoVision",
+  "featured": false
+ },
+ {
+  "name": "Atlas Data",
+  "url": "https://atlas-data.sa",
+  "country": "Saudi Arabia",
+  "category": "Tech & Startups",
+  "employer": "Freelance",
+  "featured": true
+ },
+ {
+  "name": "Masar UP Learning",
+  "url": "https://learning.atlas-data.sa",
+  "country": "Saudi Arabia",
+  "category": "Education & LMS",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "UpCard",
+  "url": "https://card-up.com",
+  "country": "Saudi Arabia",
+  "category": "Tech & Startups",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Harag Elfreej",
+  "url": "https://alfurayj.com",
+  "country": "Saudi Arabia",
+  "category": "Tech & Startups",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Al Mahafez Real Estate",
+  "url": "https://almahafez.com",
+  "country": "Saudi Arabia",
+  "category": "Real Estate & Construction",
+  "employer": "NHTAM",
+  "featured": false
+ },
+ {
+  "name": "Change Into",
+  "url": "https://changeinto.de",
+  "country": "Germany",
+  "category": "E-commerce",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Choco Fruit",
+  "url": "https://chocofruitgroup.com",
+  "country": "USA",
+  "category": "E-commerce",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "LeadFlow Pro",
+  "url": "https://leadflow-pro.com",
+  "country": "Tunisia",
+  "category": "Tech & Startups",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Maxx Marketing",
+  "url": "https://maxx-marketing.com",
+  "country": "UAE",
+  "category": "E-commerce",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Optima Soft",
+  "url": "https://optima-soft.net",
+  "country": "Syria",
+  "category": "Tech & Startups",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Optima Cloud",
+  "url": "https://cloud-optima.com",
+  "country": "Syria",
+  "category": "Tech & Startups",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Salim Academy",
+  "url": "https://salimacademy.com",
+  "country": "Syria",
+  "category": "Education & LMS",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Tiqana",
+  "url": "https://tiqana.net",
+  "country": "Syria",
+  "category": "Tech & Startups",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Hisense Syria",
+  "url": "https://hisense-sy.com",
+  "country": "Syria",
+  "category": "Tech & Startups",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "TOF Tours",
+  "url": "https://tof-tours.com",
+  "country": "Turkey",
+  "category": "Hospitality, Food & Events",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Al Sultan Sweets",
+  "url": "https://alsultansweets.com",
+  "country": "Turkey",
+  "category": "E-commerce",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Apostrophe Educational Center",
+  "url": "https://apostrophe.com.tr",
+  "country": "Turkey",
+  "category": "Education & LMS",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Wajd Ramadan Photography",
+  "url": "https://wajdram.com",
+  "country": "UAE",
+  "category": "Personal & Creative",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Afghan Shaheen Construction",
+  "url": "https://afghan-shaheen.com",
+  "country": "Afghanistan",
+  "category": "Real Estate & Construction",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Ketabona Digital Library",
+  "url": "https://ketabona.com",
+  "country": "Afghanistan",
+  "category": "E-commerce",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Zwak News",
+  "url": "https://zwaknews.com",
+  "country": "Afghanistan",
+  "category": "Non-profit, Media & Health",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Clinique Infirmière",
+  "url": "https://cliniqueinfirmiere.ca",
+  "country": "Canada",
+  "category": "Non-profit, Media & Health",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Mohammed Alhalak",
+  "url": "https://mohammed-alhalak.com",
+  "country": "Syria",
+  "category": "Personal & Creative",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Sarrdeh Tech",
+  "url": "https://sarrdeh-tech.com",
+  "country": "Syria",
+  "category": "Tech & Startups",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Clouds Garden",
+  "url": "https://cloudsgarden.com",
+  "country": "Syria",
+  "category": "Education & LMS",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Alpha Development (Etatweer)",
+  "url": "https://etatweer.com",
+  "country": "Syria",
+  "category": "Tech & Startups",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "CC Agency",
+  "url": "https://ccagency.pro",
+  "country": "Syria",
+  "category": "Tech & Startups",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Naseej LMS",
+  "url": "https://naseejedu.com",
+  "country": "Saudi Arabia",
+  "category": "Education & LMS",
+  "employer": "Freelance",
+  "featured": true
+ },
+ {
+  "name": "Raysan",
+  "url": "https://raysandev.com",
+  "country": "Saudi Arabia",
+  "category": "Education & LMS",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "ASM Trade",
+  "url": "https://asm-trade.com",
+  "country": "Syria",
+  "category": "Tech & Startups",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Brosted Al Kosour",
+  "url": "https://brostedalkosour.com",
+  "country": "Syria",
+  "category": "Hospitality, Food & Events",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "El-Volt",
+  "url": "https://el-volt.com",
+  "country": "Syria",
+  "category": "Tech & Startups",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Game Power 7",
+  "url": "https://gamepower7.com",
+  "country": "Syria",
+  "category": "Tech & Startups",
+  "employer": "Game Power 7",
+  "featured": false
+ },
+ {
+  "name": "Game Power 7: Distribution Centers",
+  "url": "https://dist.gamepower7.com",
+  "country": "Syria",
+  "category": "Tech & Startups",
+  "employer": "Game Power 7",
+  "featured": false
+ },
+ {
+  "name": "ProiTs",
+  "url": "https://proits.ae",
+  "country": "UAE",
+  "category": "Tech & Startups",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Mashaweer",
+  "url": "https://mashaweer.app",
+  "country": "Saudi Arabia",
+  "category": "Tech & Startups",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Fly Aviation",
+  "url": "https://flyaviation.aero",
+  "country": "UAE",
+  "category": "Corporate & Business",
+  "employer": "ProITs",
+  "featured": true
+ },
+ {
+  "name": "Castanea",
+  "url": "https://castanea.com",
+  "country": "UAE",
+  "category": "Hospitality, Food & Events",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Masar School",
+  "url": "https://masarschool.com",
+  "country": "UAE",
+  "category": "Education & LMS",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Smart Education",
+  "url": "https://smarteducation.ae",
+  "country": "UAE",
+  "category": "Education & LMS",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Sama Exchange",
+  "url": "https://samaexchange.com",
+  "country": "UAE",
+  "category": "Corporate & Business",
+  "employer": "ProITs",
+  "featured": true
+ },
+ {
+  "name": "Saxena Omsorg",
+  "url": "https://saxenaomsorg.se",
+  "country": "Sweden",
+  "category": "Non-profit, Media & Health",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Iwana Gross",
+  "url": "https://iwanagross.se",
+  "country": "Sweden",
+  "category": "Corporate & Business",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "UCG: United Communication Group",
+  "url": "https://ucg.ae",
+  "country": "UAE",
+  "category": "Corporate & Business",
+  "employer": "UCG",
+  "featured": false
+ },
+ {
+  "name": "ECC: Eagles Communication Consultancy",
+  "url": "https://ecc-ae.com",
+  "country": "UAE",
+  "category": "Corporate & Business",
+  "employer": "UCG",
+  "featured": false
+ },
+ {
+  "name": "Fitout",
+  "url": "https://thefitout.ae",
+  "country": "UAE",
+  "category": "Real Estate & Construction",
+  "employer": "UCG",
+  "featured": false
+ },
+ {
+  "name": "Maqta Gateway",
+  "url": "https://maqta.ae",
+  "country": "UAE",
+  "category": "Corporate & Business",
+  "employer": "UCG",
+  "featured": true
+ },
+ {
+  "name": "Men Dayetna",
+  "url": "https://mendayetna.com",
+  "country": "Lebanon",
+  "category": "E-commerce",
+  "employer": "Freelance",
+  "featured": true,
+  "case": {
+   "summary": "Men Dayetna is a Lebanese multi-vendor marketplace for mouneh, handmade crafts and village artisans, built on WordPress and WooCommerce.",
+   "theme": "WoodMart",
+   "plugins": [
+    "WooCommerce",
+    "Multi-vendor marketplace plugin"
+   ],
+   "tech": [
+    "WordPress",
+    "PHP",
+    "MySQL",
+    "WooCommerce",
+    "Figma"
+   ],
+   "features": [
+    "Multi-vendor store: artisans and villages sell under one marketplace",
+    "Product catalogue for mouneh and handmade crafts",
+    "Staging environment for review before production releases",
+    "QA tracker process with the client’s QA specialist"
+   ],
+   "uiux": [
+    "Interface built from a Figma design",
+    "Product discovery organised around villages, artisans and categories"
+   ],
+   "phases": [
+    "Design: Figma UI for the marketplace",
+    "Build: WoodMart and WooCommerce marketplace on staging",
+    "QA: structured audit of the QA tracker, separating real bugs from change requests",
+    "Delivery review: checked against the contract and its requirements annex",
+    "Production: launch preparation including SEO and Open Graph fixes"
+   ]
+  }
+ },
+ {
+  "name": "Utah Star Household Electronics Trading",
+  "url": "https://utah-electronics.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Finway Detergents Trading",
+  "url": "https://finway-trading.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Star Overseas Garments Trading",
+  "url": "https://star-overseas.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Cordoba Seeds, Tools & Agricultural Equipment Trading",
+  "url": "https://cordoba-trading.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Rukan Al Atlal Wires & Electrical Fittings Trading",
+  "url": "https://rukanalatlal.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Agritires",
+  "url": "https://agri-tires.com",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Alam Alebdaa",
+  "url": "https://alam-factory.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Masar Alyn Household Utensils Trading",
+  "url": "https://masar-trading.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Clsico Building Materials & Heavy Equipment",
+  "url": "https://clsico.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Indiana Household Electrical Appliances Trading",
+  "url": "https://indiana-trading.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Darb Al Ataa Building Hardware & Tools Trading",
+  "url": "https://darb-trading.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Brighton Food Industries",
+  "url": "https://brighton-food.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Alandalos Trading",
+  "url": "https://alandalos-trading.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Tareek Altaka",
+  "url": "https://tareekaltaka.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Alainwar Almudiya Workshop Equipment & Spare Parts",
+  "url": "https://alainwar.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Al Baseet Building Materials & Tools Trading",
+  "url": "https://albaseet-trading.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Acton Foods",
+  "url": "https://acton-food.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Manchester Furniture & Household Supplies Trading",
+  "url": "https://manchester.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "MPR Electrical & Electronics Equipment Manufacturing",
+  "url": "https://mpr-manufactur.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Napoli Furniture Factory",
+  "url": "https://napoli-factory.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Hakam Trading",
+  "url": "https://hakam-trading.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Shajarat Alkarz",
+  "url": "https://shajarat-alkarz.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Nevada Trading",
+  "url": "https://nevada-trading.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "G H K Detergents Trading",
+  "url": "https://ghk-trading.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Arizona Stationery, Gifts & Household Tools",
+  "url": "https://arizona-stationery.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Magnificent Promotion Home Appliances Trading",
+  "url": "https://magnificent-trading.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Modern Supply Furniture & Household Trading",
+  "url": "https://modernsupply.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Noor Al Fareej",
+  "url": "https://nooralfareej.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Hisb Albahr",
+  "url": "https://hisb-albahr.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Qalat Al Rowad",
+  "url": "https://alrowad-trading.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Rokn Alzahyh",
+  "url": "https://roknalzahyh.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Sama Almadina Trading",
+  "url": "https://samaalmadinatrading.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Loon Alsadaf",
+  "url": "https://loonalsadaf.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Mashariq Alard",
+  "url": "https://mashariqalard.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Pro Home",
+  "url": "https://prohome.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Rawnaq Alsama",
+  "url": "https://rawnaqalsama.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Nujoom Alpetra",
+  "url": "https://nujoomalpetra.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "FNZ",
+  "url": "https://fnz.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Sama Almostaqbal",
+  "url": "https://samaalmostaqbal.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Shajarat Alenab",
+  "url": "https://shajaratalenab.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Bon Voyage Foods",
+  "url": "https://bonvoyagefoods.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Altaif Alfadi",
+  "url": "https://altaifalfadi.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Alsaah",
+  "url": "https://alsaah.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Albasma Aldahbiya",
+  "url": "https://albasmaaldahbiya.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Alnujoom Food",
+  "url": "https://alnujoomfood.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Sketchat Studio",
+  "url": "https://sketchat-studio.com",
+  "country": "Syria",
+  "category": "Tech & Startups",
+  "employer": "Sketchat Studio",
+  "featured": false
+ },
+ {
+  "name": "SPIRE Design and Build",
+  "url": "https://spire-db.co.uk",
+  "country": "UK",
+  "category": "Real Estate & Construction",
+  "employer": "Sketchat Studio",
+  "featured": false
+ },
+ {
+  "name": "Al Muttasil",
+  "url": "https://almuttasil.sa",
+  "country": "Saudi Arabia",
+  "category": "E-commerce",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Syrian Medical Services (SMS)",
+  "url": "http://www.sms-syria.com",
+  "country": "Syria",
+  "category": "Non-profit, Media & Health",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Jabal Hafeet Contracting",
+  "url": "http://jabalhafeetcont.com",
+  "country": "UAE",
+  "category": "Real Estate & Construction",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Al Foton",
+  "url": "http://alfoton.com",
+  "country": "",
+  "category": "Corporate & Business",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Katerji Group",
+  "url": "http://katerjigroup.com",
+  "country": "Syria",
+  "category": "Corporate & Business",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Zayer",
+  "url": "https://zayer.sa",
+  "country": "Saudi Arabia",
+  "category": "Corporate & Business",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "ARISPA",
+  "url": "http://www.arispa.net",
+  "country": "",
+  "category": "Non-profit, Media & Health",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Özel Antalya Tıp Merkezi",
+  "url": "http://www.antalyatip.com",
+  "country": "Turkey",
+  "category": "Non-profit, Media & Health",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Al Rabat Building Contracting",
+  "url": "http://alrabatcontracting.com",
+  "country": "UAE",
+  "category": "Real Estate & Construction",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "SATMA International",
+  "url": "https://satma.ae",
+  "country": "UAE",
+  "category": "Corporate & Business",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Zein Group",
+  "url": "https://zeingroup.com",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Innocent Touch Paris",
+  "url": "https://innocenttouch-paris.com",
+  "country": "UAE",
+  "category": "E-commerce",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Amal Al-Shuoob (Rappelz Arabic)",
+  "url": "https://rappelz.gamepower7.com",
+  "country": "Syria",
+  "category": "Tech & Startups",
+  "employer": "Game Power 7",
+  "featured": false
+ },
+ {
+  "name": "Allods Online Arabic",
+  "url": "https://allods.gamepower7.com",
+  "country": "Syria",
+  "category": "Tech & Startups",
+  "employer": "Game Power 7",
+  "featured": false
+ },
+ {
+  "name": "Palma Cosmetics Trading",
+  "url": "https://palma-cosmetics.ae",
+  "country": "UAE",
+  "category": "Trading & Manufacturing",
+  "employer": "ProITs",
+  "featured": false
+ },
+ {
+  "name": "Faihaa Store",
+  "url": "https://faihaastore.com",
+  "country": "Oman",
+  "category": "E-commerce",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "Stands World",
+  "url": "https://stands-world.com",
+  "country": "UAE",
+  "category": "Corporate & Business",
+  "employer": "Freelance",
+  "featured": false
+ },
+ {
+  "name": "MicroSolutions",
+  "url": "https://microsolutions.sy",
+  "country": "Syria",
+  "category": "Tech & Startups",
+  "employer": "MicroSolutions",
+  "featured": false
+ },
+ {
+  "name": "DiGi: Go Digital",
+  "url": "",
+  "key": "digi",
+  "country": "",
+  "category": "Tech & Startups",
+  "employer": "Freelance",
+  "featured": false,
+  "delivered": "2018",
+  "summary": "Landing site for the DiGi Go Digital app: features, screenshots, pricing plans, team and app download links."
+ },
+ {
+  "name": "Super Mom",
+  "url": "",
+  "key": "super-mom",
+  "country": "",
+  "category": "E-commerce",
+  "employer": "Sketchat Studio",
+  "featured": false,
+  "summary": "WooCommerce baby and kids boutique: product categories, sale badges, ratings and a newsletter sign-up."
+ },
+ {
+  "name": "Unlimited Services: brand guidelines",
+  "url": "",
+  "key": "unlimited-services",
+  "country": "",
+  "category": "Corporate & Business",
+  "employer": "Freelance",
+  "featured": false,
+  "summary": "Brand identity guidelines: logo, colours, typography, stationery, uniforms and signage."
+ }
+]

@@ -1,0 +1,31 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "doha-portfolio/project-showcase",
+	"version": "1.1.0",
+	"title": "Project Showcase",
+	"category": "widgets",
+	"icon": "portfolio",
+	"description": "A grid of portfolio projects with their screenshots, filtered by type or featured status.",
+	"keywords": [ "portfolio", "projects", "work" ],
+	"textdomain": "doha-portfolio",
+	"attributes": {
+		"count": { "type": "number", "default": 4 },
+		"columns": { "type": "number", "default": 2 },
+		"projectType": { "type": "string", "default": "" },
+		"featuredOnly": { "type": "boolean", "default": true },
+		"showMeta": { "type": "boolean", "default": true },
+		"imageCrop": { "type": "string", "enum": [ "top", "center" ], "default": "top" }
+	},
+	"supports": {
+		"html": false,
+		"align": [ "wide", "full" ],
+		"spacing": { "margin": true, "padding": true, "blockGap": true },
+		"color": { "text": true, "background": true, "link": true },
+		"typography": { "fontSize": true }
+	},
+	"example": { "attributes": { "count": 2, "featuredOnly": false } },
+	"editorScript": "file:./index.js",
+	"style": "file:./style-index.css",
+	"render": "file:./render.php"
+}

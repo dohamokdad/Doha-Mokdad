@@ -1,0 +1,19 @@
+{
+	"name": "doha-portfolio-core",
+	"version": "1.1.0",
+	"private": true,
+	"description": "Projects, portfolio stats, REST endpoint and the Project Showcase block.",
+	"author": "Doha Mokdad",
+	"license": "GPL-2.0-or-later",
+	"scripts": {
+		"build": "wp-scripts build --webpack-copy-php",
+		"start": "wp-scripts start --webpack-copy-php",
+		"lint:js": "eslint src",
+		"lint:css": "wp-scripts lint-style \"src/**/*.scss\"",
+		"format": "wp-scripts format src"
+	},
+	"devDependencies": {
+		"@babel/runtime": "^7.26.0",
+		"@wordpress/scripts": "30.6.0"
+	}
+}

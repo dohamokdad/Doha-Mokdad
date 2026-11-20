@@ -1,0 +1,57 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+
+jobs:
+  php:
+    name: PHP lint (${{ matrix.php }})
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        php: [ '7.4', '8.1', '8.3' ]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: ${{ matrix.php }}
+          tools: none
+      - name: Syntax check every PHP file
+        run: find plugins themes -name '*.php' -not -path '*/vendor/*' -not -path '*/node_modules/*' -print0 | xargs -0 -n1 php -l > /dev/null
+
+  coding-standards:
+    name: WordPress Coding Standards (plugin)
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: plugins/doha-portfolio-core
+    steps:
+      - uses: actions/checkout@v4
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+          tools: composer
+      - run: composer install --no-interaction --no-progress
+      - run: composer lint
+
+  block:
+    name: Block build and JS/SCSS lint
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: plugins/doha-portfolio-core
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: plugins/doha-portfolio-core/package-lock.json
+      - run: npm ci
+      - run: npm run lint:js
+      - run: npm run lint:css
+      - run: npm run build
+      - name: Committed build matches source
+        run: git diff --exit-code -- build

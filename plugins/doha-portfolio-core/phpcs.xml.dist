@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ruleset name="Doha Portfolio Core">
+	<description>WordPress Coding Standards for the plugin.</description>
+	<file>.</file>
+	<exclude-pattern>/vendor/*</exclude-pattern>
+	<exclude-pattern>/node_modules/*</exclude-pattern>
+	<exclude-pattern>/build/*</exclude-pattern>
+	<arg name="extensions" value="php"/>
+	<arg value="sp"/>
+	<config name="testVersion" value="7.4-"/>
+	<config name="minimum_wp_version" value="6.6"/>
+	<rule ref="WordPress-Extra">
+		<exclude name="WordPress.Files.FileName"/>
+		<exclude name="Universal.Arrays.DisallowShortArraySyntax"/>
+	</rule>
+	<rule ref="WordPress.WP.I18n"><properties><property name="text_domain" type="array"><element value="doha-portfolio"/></property></properties></rule>
+	<rule ref="WordPress.NamingConventions.PrefixAllGlobals"><properties><property name="prefixes" type="array"><element value="dpc_"/><element value="DPC_"/></property></properties></rule>
+	<rule ref="PHPCompatibilityWP"/>
+</ruleset>
